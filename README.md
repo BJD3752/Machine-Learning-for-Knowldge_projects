@@ -1,1 +1,2 @@
-# Machine-Learning-for-Knowldge_project_KMeans_Algorithm_with scaling
+# Machine-Learning-for-Knowldge_project_KMeans_Algorithm_with scaling_with seeds dimention dataset
+
